@@ -1,0 +1,2 @@
+THIS IS AWESOME : Hello, this message is from the first file.
+hello again! Hello, this message is from second text file.
